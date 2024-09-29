@@ -23,5 +23,3 @@ Key: mhhabib
 Ciper text: Hello git people
 ```
 
-
-Licensed by: [MIT LICENSE](License)
